@@ -74,7 +74,7 @@
     "jquery-ui-dist": "^1.12.1",
     "js-yaml": "^3.12.0",
     "jstree": "^3.3.5",
-    "marked": "^0.4.0",
+    "marked": "^1.2.0",
     "mkdirp": "^0.5.1",
     "moment": "^2.22.2",
     "nat-upnp": "git+https://github.com/MelvinTo/node-nat-upnp.git",
